@@ -8,7 +8,7 @@ public class Produto {
 
 	public Produto(String nome, double preco, int quantidade) {
 		this.nome = nome;
-		this.preco = preco;
+		setPreco(preco);
 		setQuantidade(quantidade);
 	}
 
