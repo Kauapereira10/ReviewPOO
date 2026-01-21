@@ -1,9 +1,4 @@
-package com.kaua.reviewpoo.heranca.test;
-
-import com.kaua.reviewpoo.heranca.Pessoa;
-import com.kaua.reviewpoo.heranca.model.Aluno;
-import com.kaua.reviewpoo.heranca.model.Funcionario;
-import com.kaua.reviewpoo.heranca.model.Professor;
+package com.kaua.reviewpoo.heranca.test01;
 
 public class PessoaHerancaTest {
 	public static void main(String[] args) {

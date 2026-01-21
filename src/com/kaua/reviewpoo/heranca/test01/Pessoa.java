@@ -1,4 +1,4 @@
-package com.kaua.reviewpoo.heranca;
+package com.kaua.reviewpoo.heranca.test01;
 
 public class Pessoa {
 	private String nome;

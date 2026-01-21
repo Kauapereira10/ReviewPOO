@@ -1,6 +1,4 @@
-package com.kaua.reviewpoo.heranca.model;
-
-import com.kaua.reviewpoo.heranca.Pessoa;
+package com.kaua.reviewpoo.heranca.test01;
 
 public class Professor extends Pessoa{
 	private String especialidade;
